@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/02 files/01_study/02_leetcode/15_labuladong/BasicDataType/out/build/x64-Debug/BasicDataType/CMakeFiles/BasicDataType.dir/embed.manifest"

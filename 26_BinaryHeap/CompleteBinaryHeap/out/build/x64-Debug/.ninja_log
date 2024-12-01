@@ -1,0 +1,20 @@
+# ninja log v5
+0	149	7516381263653693	build.ninja	19ff60174b9d320
+1	777	7516386615072156	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+777	3456	7516386641788751	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c
+1	152	0	clean	63bc6ea4e62f3343
+0	225	0	clean	63bc6ea4e62f3343
+0	1288	7516533285331975	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+1288	2233	7516533293333870	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c
+0	763	7516540041246879	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+763	2140	7516540053626536	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c
+0	541	7516544684380411	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+541	1446	7516544692618804	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c
+0	530	7516547165184309	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+530	1375	7516547172353628	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c
+0	671	7516549520676559	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+671	1577	7516549528362519	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c
+0	762	7516555299161529	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+762	1635	7516555306502305	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c
+0	943	7516556332648162	CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/CompleteBinaryHeap.cpp.obj	541d533ea66093d2
+943	1891	7516556340823273	CompleteBinaryHeap/CompleteBinaryHeap.exe	2c9d7b8037e9738c

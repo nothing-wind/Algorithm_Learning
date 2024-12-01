@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-01 合并K个有序链表",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

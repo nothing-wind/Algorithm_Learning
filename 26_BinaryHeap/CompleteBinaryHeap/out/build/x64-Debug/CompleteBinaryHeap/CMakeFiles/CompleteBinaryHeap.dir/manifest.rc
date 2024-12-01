@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/02_files/01_study/02_leetcode/26_BinaryHeap/CompleteBinaryHeap/out/build/x64-Debug/CompleteBinaryHeap/CMakeFiles/CompleteBinaryHeap.dir/embed.manifest"

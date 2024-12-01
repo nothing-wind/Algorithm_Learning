@@ -1,0 +1,4 @@
+# ninja log v5
+1	93	7340030246613582	build.ninja	ca41deff6e713e06
+1	254	7339366879897848	MergeKSortLinkList/CMakeFiles/kSortLinkList.dir/merge_k_sort_link_list.cpp.obj	1d63db99066c7a57
+255	457	7339366881848292	MergeKSortLinkList/kSortLinkList.exe	fa7287c7ce813d76

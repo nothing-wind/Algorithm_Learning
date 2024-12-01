@@ -1,0 +1,22 @@
+﻿// 查找单链表的中间节点.cpp: 定义应用程序的入口点。
+//
+
+ struct ListNode {
+ int val;
+ ListNode *next;
+   ListNode() : val(0), next(nullptr) {}
+     ListNode(int x) : val(x), next(nullptr) {}
+      ListNode(int x, ListNode *next) : val(x), next(next) {}
+ };
+ 
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+        ListNode* slow = head, * fast = head;
+        while (fast&&fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+};
